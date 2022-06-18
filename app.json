@@ -1,4 +1,35 @@
 {
+<<<<<<< HEAD
   "name": "DioFlashlight",
   "displayName": "Dio Flashlight"
 }
+=======
+  "expo": {
+    "name": "my-app",
+    "slug": "my-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.rafaeldnribeiro.myapp"
+    },
+    "web": {}
+  }
+}
+>>>>>>> 02b3d7b4ba6939725d9e645f791767bae9806ceb
